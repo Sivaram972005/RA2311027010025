@@ -1,0 +1,21 @@
+{
+  "name": "ra2311027010025",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000A\u00002\u00003\u00001\u00001\u00000\u00002\u00007\u00000\u00001\u00000\u00000\u00002\u00005\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sivaram972005/RA2311027010025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sivaram972005/RA2311027010025/issues"
+  },
+  "homepage": "https://github.com/Sivaram972005/RA2311027010025#readme"
+}
